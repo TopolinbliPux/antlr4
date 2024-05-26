@@ -1,0 +1,7 @@
+A = 5y^4+8
+calculate A 0 2 0
+B = 4x^2y^2z^2
+calculate B 1 1 1 
+C = A * B
+calculate C 2 2 2
+print C 
